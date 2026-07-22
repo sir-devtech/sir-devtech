@@ -13,8 +13,4 @@ Sou o fundador da **Sir Tech Solutions**, atuando como Arquiteto de Software e p
 ### 🚀 Projetos em Destaque
 * 💈 **BarberSys:** Sistema de gestão completo e escalável para barbearias.
 * 🐾 **Sir PetShop:** Plataforma de gerenciamento integrado para pet shops.
-* 🚓 **Sistema GCM:** Modernização digital focada na gestão de Guardas Civis Municipais.
-
-### 📫 Contato
-* ✉️ **E-mail:** vargasdeoliveira@gmail.com
-* 🏢 **Empresa:** Sir Tech Solutions
+* 🚓 **Sistema GCM:** Modernização digital focada na gestão de Guardas Civis Municipais

@@ -11,6 +11,6 @@ Sou o fundador da **Sir Tech Solutions**, atuando como Arquiteto de Software e p
 * **Segurança:** Foco em integridade de dados, automação e proteção de infraestruturas
 
 ### 🚀 Projetos em Destaque
-* 💈 **BarberSys:** Sistema de gestão completo e escalável para barbearias.
+* 💈 **SirBarber:** Sistema de gestão completo e escalável para barbearias.
 * 🐾 **Sir PetShop:** Plataforma de gerenciamento integrado para pet shops.
 * 🚓 **Sistema GCM:** Modernização digital focada na gestão de Guardas Civis Municipais

@@ -1,5 +1,3 @@
-## Olá! Eu sou o Moisés 👋
-
 Sou o fundador da **Sir Tech Solutions**, atuando como Arquiteto de Software e profissional de segurança pública. Sou apaixonado por modernizar e proteger sistemas institucionais e alavancar negócios.
 
 ### 🛡️ Declaração Profissional

@@ -13,15 +13,15 @@
 * **Frontend:** React, TypeScript, Tailwind CSS, PWA, Design Responsivo<!--[cite: 16] -->
 * **Backend:** Node.js (Prisma, Express), Python (Django), APIs REST<!--[cite: 16] -->
 * **Dados & Infra:** PostgreSQL, Docker, Linux, Nginx, CI/CD (GitHub Actions), Cloudflare, AWS<!--[cite: 16] -->
-* **Qualidade & Segurança:** 880+ testes automatizados (Vitest), GitFlow, isolamento multi-tenant, conformidade LGPD<!--[cite: 16] -->
+* **Qualidade & Segurança:** Testes automatizados (Vitest), GitFlow, isolamento multi-tenant, conformidade LGPD<!--[cite: 16] -->
 
 ---
 
 ### 🚀 Produtos em Destaque
 
-* 💈 **Sir Barber:** SaaS multi-tenant em produção com agendamento, integração Asaas e WhatsApp API; 880+ testes automatizados e deploy via CI/CD.<!--[cite: 16] -->
-* 🐾 **Sir Pet:** Mini ERP para gestão de pet shops e clínicas (PDV, stocks e controlo financeiro em Django/PostgreSQL).<!--[cite: 16] -->
-* 🛡️ **Sistema GCM:** Plataforma tática operacional de segurança pública municipal com registo homologado no INPI (B2G).<!--[cite: 16] -->
+* 💈 **Sir Barber:** SaaS multi-tenant em produção com agendamento, integração Asaas e WhatsApp API; testes automatizados (Vitest) e deploy via CI/CD.<!--[cite: 16] -->
+* 🐾 **Sir Pet:** Mini ERP para gestão de pet shops e clínicas (PDV, estoques e controle financeiro em Django/PostgreSQL).<!--[cite: 16] -->
+* 🛡️ **Sistema GCM:** Plataforma tática operacional de segurança pública municipal com registro homologado no INPI (B2G).<!--[cite: 16] -->
 
 ---
 

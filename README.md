@@ -20,7 +20,7 @@
 ### 🚀 Produtos em Destaque
 
 * 💈 **Sir Barber:** SaaS multi-tenant em produção com agendamento, integração Asaas e WhatsApp API; testes automatizados (Vitest) e deploy via CI/CD.
-* 🐾 **Sir Pet:** Mini ERP para gestão de pet shops e clínicas (PDV, estoques e controle financeiro em Django/PostgreSQL).
+* 🐾 **Sir Pet:** ERP para gestão de pet shops e clínicas (PDV, estoques e controle financeiro em Django/PostgreSQL).
 * 🛡️ **Sistema GCM:** Plataforma tática operacional de segurança pública municipal com registro homologado no INPI (B2G).
 
 ---

@@ -1,14 +1,32 @@
-Sou o fundador da **Sir Tech Solutions**, atuando como Arquiteto de Software e profissional de segurança pública. Sou apaixonado por modernizar e proteger sistemas institucionais e alavancar negócios.
+# Moisés Santos de Oliveira
 
-### 🛡️ Declaração Profissional
-> Especialista na orquestração de soluções tecnológicas baseadas em IA, busco aplicar minha visão estratégica operacional para gerenciar riscos, identificar vulnerabilidades e garantir a integridade de dados críticos. Valorizo a inovação responsável e a criação de infraestruturas resilientes que apoiem os objetivos de segurança e a eficiência corporativa.
+**Desenvolvedor Full Stack & Fundador da Sir Tech Solutions**<!--[cite: 16] -->  
+*Construção e operação de produtos SaaS de ponta a ponta: arquitetura, testes, CI/CD e produção.*<!--[cite: 16] -->
 
-### 💻 Minha Stack e Abordagem
-* **Desenvolvimento:** Arquitetura de Software com IA (Claude Opus, GPT, Copilot Pro+)
-* **Tecnologias:** Python (Django), TypeScript (React/Node.js), Tailwind CSS
-* **Segurança:** Foco em integridade de dados, automação e proteção de infraestruturas
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/moisesoliveira1)<!--[cite: 16] -->
+[![Website](https://img.shields.io/badge/Website-sirtechsolutions.com.br-blue?style=flat)](https://sirtechsolutions.com.br)<!--[cite: 16] -->
 
-### 🚀 Projetos em Destaque
-* 💈 **SirBarber:** Sistema de gestão completo e escalável para barbearias.
-* 🐾 **Sir PetShop:** Plataforma de gerenciamento integrado para pet shops.
-* 🚓 **Sistema GCM:** Modernização digital focada na gestão de Guardas Civis Municipais
+---
+
+### 🛠️ Stack Principal
+
+* **Frontend:** React, TypeScript, Tailwind CSS, PWA, Design Responsivo<!--[cite: 16] -->
+* **Backend:** Node.js (Prisma, Express), Python (Django), APIs REST<!--[cite: 16] -->
+* **Dados & Infra:** PostgreSQL, Docker, Linux, Nginx, CI/CD (GitHub Actions), Cloudflare, AWS<!--[cite: 16] -->
+* **Qualidade & Segurança:** 880+ testes automatizados (Vitest), GitFlow, isolamento multi-tenant, conformidade LGPD<!--[cite: 16] -->
+
+---
+
+### 🚀 Produtos em Destaque
+
+* 💈 **Sir Barber:** SaaS multi-tenant em produção com agendamento, integração Asaas e WhatsApp API; 880+ testes automatizados e deploy via CI/CD.<!--[cite: 16] -->
+* 🐾 **Sir Pet:** Mini ERP para gestão de pet shops e clínicas (PDV, stocks e controlo financeiro em Django/PostgreSQL).<!--[cite: 16] -->
+* 🛡️ **Sistema GCM:** Plataforma tática operacional de segurança pública municipal com registo homologado no INPI (B2G).<!--[cite: 16] -->
+
+---
+
+### 🎓 Formação & Certificações
+
+* **Engenharia de Software:** Anhanguera (Graduação em curso, 5º semestre)<!--[cite: 16] -->
+* **Gestão Pública:** UNIP (Graduado)<!--[cite: 16] --> | **MBA em Gestão da Qualidade:** UNIP<!--[cite: 16] -->
+* **Certificações:** Google Cybersecurity | Microsoft / DIO (C#, Copilot & Azure)<!--[cite: 16] -->

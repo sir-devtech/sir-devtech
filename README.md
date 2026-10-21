@@ -1,6 +1,7 @@
 # Moisés Santos de Oliveira
 
 **Desenvolvedor Full Stack** · Java, Spring Boot e Angular, além de Node.js e Python
+
 *Fundador da Sir Tech Solutions. Construo e opero sistemas de ponta a ponta: banco de dados, API, tela, testes, CI/CD e produção.*
 
 Disponível para presencial, híbrido ou remoto.

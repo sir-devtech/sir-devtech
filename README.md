@@ -13,7 +13,7 @@ Disponível para presencial, híbrido ou remoto.
 
 ### ☕ Em destaque: SirTech Manager
 
-[**SirTech Manager**](https://github.com/sir-devtech/SirTech-Manager) controla clientes, notas fiscais e despesas da minha própria empresa. A nota é emitida no site da prefeitura e o sistema importa o XML.
+[**SirTech Manager**](https://github.com/sir-devtech/SirTech-Manager) controla clientes, notas fiscais e despesas da minha própria empresa. O sistema importa o XML da NF.
 
 <a href="https://github.com/sir-devtech/SirTech-Manager"><img src="https://raw.githubusercontent.com/sir-devtech/SirTech-Manager/main/docs/screenshots/demo.gif" alt="SirTech Manager em uso" width="720"></a>
 

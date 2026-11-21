@@ -115,4 +115,4 @@ No dia a dia uso Cursor e Claude Code em modo agente: eu defino o escopo, divido
 
 Há 8 anos também sou Guarda Civil Municipal. De lá vem o hábito de decidir sob pressão e de tratar dados sensíveis com cuidado.
 
-<sub>São Roque, SP · disponível para presencial, híbrido ou remoto</sub>
+<sub>São Roque, SP · </sub>

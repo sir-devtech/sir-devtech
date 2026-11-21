@@ -55,7 +55,7 @@ Controla clientes, notas fiscais e despesas da minha empresa e importa o XML da 
 </tr>
 </table>
 
-Também fiz o **Sistema GCM**, que digitaliza registros e relatórios de guardas municipais, com controle de acesso por perfil. O software tem registro no INPI.
+Também fiz o **Sistema GCM**, que digitaliza registros e relatórios de guardas municipais, com controle de acesso por perfil e um app nativo de botão do pânico ligado à central. Rodou por 6 meses na AWS e foi apresentado ao comando de duas Guardas Civis Municipais. O software tem registro no INPI.
 
 ## O que já quebrou em produção
 
@@ -100,7 +100,7 @@ flowchart LR
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
-  <img alt="Em produção: Node.js, TypeScript, Express, Prisma, React, Tailwind, Python, Django, PostgreSQL. Infra: Docker, Nginx, Linux, GitHub Actions, DigitalOcean, Sentry, Git. Testes: Vitest, JUnit, Testcontainers, Playwright. Jogos: Unity, C#, Google Play. Também uso: Java, Spring Boot, Angular, MySQL, Redis, Celery, n8n. Estudando: AWS." src="assets/stack-dark.svg" width="100%">
+  <img alt="Em produção: Node.js, TypeScript, Express, Prisma, React, Tailwind, Python, Django, PostgreSQL. Infra: Docker, Nginx, Linux, GitHub Actions, DigitalOcean, AWS, Sentry, Git. Testes: Vitest, JUnit, Testcontainers, Playwright. Jogos: Unity, C#, Google Play. Também uso: Java, Spring Boot, Angular, MySQL, Redis, Celery, n8n." src="assets/stack-dark.svg" width="100%">
 </picture>
 
 No dia a dia uso Cursor e Claude Code em modo agente: eu defino o escopo, divido em etapas, valido com testes e decido o que vai para produção.

@@ -1,52 +1,116 @@
-# Moisés Santos de Oliveira
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Moisés Santos de Oliveira, desenvolvedor full stack. Sir Pet e SirBarber em produção, Shardspire em acesso antecipado na Google Play, SirTech Manager open source." src="assets/header-dark.svg" width="100%">
+</picture>
 
-**Desenvolvedor Full Stack** · Java, Spring Boot e Angular, além de Node.js e Python
+Sou desenvolvedor full stack e fundador da [Sir Tech Solutions](https://sirtechsolutions.com.br). Faço os sistemas da empresa do banco de dados ao deploy e continuo cuidando deles depois que entram no ar. Hoje são dois sistemas usados todo dia por clientes e um jogo na Google Play.
 
-*Fundador da Sir Tech Solutions. Construo e opero sistemas de ponta a ponta: banco de dados, API, tela, testes, CI/CD e produção.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-moisesoliveira1-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/moisesoliveira1)
+[![Site](https://img.shields.io/badge/site-sirtechsolutions.com.br-00C8FF?style=flat-square)](https://sirtechsolutions.com.br)
+[![Google Play](https://img.shields.io/badge/Google_Play-Shardspire-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.sirtech.shardspire)
 
-Disponível para presencial, híbrido ou remoto.
+## No ar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/moisesoliveira1)
-[![Website](https://img.shields.io/badge/Website-sirtechsolutions.com.br-blue?style=flat)](https://sirtechsolutions.com.br)
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://sirtechsolutions.com.br/sirbarber/"><img src="assets/card-sirbarber.jpg" alt="Página de agendamento do SirBarber" width="100%"></a>
 
----
+**SirBarber** · `em produção`
 
-### ☕ Em destaque: SirTech Manager
+Agendamento online e assinaturas com cobrança recorrente pelo Asaas (PIX, cartão e webhooks). Roda numa barbearia desde julho de 2026, com cerca de 220 agendamentos por mês. A versão multiempresa já tem WhatsApp Cloud API e mais de 880 testes automatizados.
 
-[**SirTech Manager**](https://github.com/sir-devtech/SirTech-Manager) controla clientes, notas fiscais e despesas da minha própria empresa. O sistema importa o XML da NF.
+<sub>Node.js · TypeScript · Express · Prisma · PostgreSQL · React</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://sirtechsolutions.com.br/sirpet/"><img src="assets/card-sirpet.jpg" alt="Dashboard do Sir Pet" width="100%"></a>
 
-<a href="https://github.com/sir-devtech/SirTech-Manager"><img src="https://raw.githubusercontent.com/sir-devtech/SirTech-Manager/main/docs/screenshots/demo.gif" alt="SirTech Manager em uso" width="720"></a>
+**Sir Pet** · `em produção`
 
-* **Stack:** Java 21, Spring Boot 4.1, PostgreSQL 18 com Flyway, Angular 22, Docker Compose.
-* **Decisões:** regra de negócio na entidade, idempotência garantida pelo banco (índice único parcial), login com sessão (BCrypt e CSRF).
-* **Qualidade:** 110 testes da API com Testcontainers (90,5% de cobertura), 114 testes da tela, 5 cenários de ponta a ponta com Playwright e CI com verificação de dependências.
+ERP para pet shop: PDV, estoque, contas a pagar, dashboard financeiro e agenda de banho e tosa, com os dados de cada loja separados.
 
----
+<sub>Python · Django · PostgreSQL · Celery</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://play.google.com/store/apps/details?id=com.sirtech.shardspire"><img src="assets/card-shardspire.jpg" alt="Batalha no Shardspire" width="100%"></a>
 
-### 🛠️ Stack
+**Shardspire** · `acesso antecipado`
 
-* **Java:** Java 21, Spring Boot (Web, Data JPA, Security, Validation), Flyway, JUnit, Mockito, Testcontainers
-* **Frontend:** Angular, React, TypeScript, Tailwind CSS, PWA, Design Responsivo
-* **Backend:** Node.js (Prisma, Express), Python (Django), APIs REST
-* **Dados & Infra:** PostgreSQL, MySQL, Redis, Docker, Linux, Nginx, CI/CD (GitHub Actions), Cloudflare, AWS
-* **Qualidade & Segurança:** Testes automatizados (JUnit, Vitest, Playwright), GitFlow, isolamento multi-tenant, conformidade LGPD
+Tower defense 3D que fiz em Unity. No Duelo, os dois jogadores recebem a mesma horda e mandam monstros para o tabuleiro do outro. Tem Ranqueada online, progresso na nuvem, compras no app e versões em português, inglês e espanhol.
 
-Uso IA no dia a dia (Cursor, Copilot e Claude Code): eu defino o que construir, valido com testes e decido o que vai para produção.
+<sub>Unity · C# · Unity Gaming Services · Google Play Billing</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/sir-devtech/SirTech-Manager"><img src="assets/card-sirtech-manager.jpg" alt="Painel do SirTech Manager" width="100%"></a>
 
----
+**SirTech Manager** · `open source`
 
-### 🚀 Outros produtos
+Controla clientes, notas fiscais e despesas da minha empresa e importa o XML da nota. 110 testes da API com Testcontainers (90,5% de cobertura), 114 testes da tela e testes de ponta a ponta com Playwright.
 
-* 💈 **BarberSys:** agendamento online, painel administrativo e assinaturas com cobrança recorrente pelo Asaas (PIX, cartão e webhooks), em produção numa barbearia. Node.js, TypeScript, Prisma, PostgreSQL e React.
-* 💈 **Sir Barber:** versão multi-tenant do BarberSys, com dados separados por loja, WhatsApp Cloud API e mais de 880 testes automatizados.
-* 🐾 **Sir Pet:** ERP para pet shops, em produção: PDV, estoque, contas a pagar, dashboard financeiro e agenda de banho e tosa. Python, Django e PostgreSQL.
-* 🛡️ **Sistema GCM:** digitaliza registros e relatórios de guardas municipais, com controle de acesso por perfil. Registrado no INPI.
+<sub>Java 21 · Spring Boot · Angular · PostgreSQL · Flyway</sub>
+</td>
+</tr>
+</table>
 
----
+Também fiz o **Sistema GCM**, que digitaliza registros e relatórios de guardas municipais, com controle de acesso por perfil. O software tem registro no INPI.
 
-### 🎓 Formação & Certificações
+## O que já quebrou em produção
 
-* **Engenharia de Software:** Anhanguera (graduação em curso, conclusão prevista em dez/2027)
-* **Gestão Pública:** UNIP (graduado) | **MBA em Gestão da Qualidade e Produtividade:** UNIP
-* **Cursos:** CI&T / DIO (Java AI Copilot, 53h) | Microsoft / DIO (GitHub Copilot e Azure Serverless) | Google Cybersecurity
-* **Idiomas:** português nativo, inglês intermediário
+Sistema no ar ensina mais que tutorial. Alguns problemas reais e como resolvi (clique para abrir):
+
+<details>
+<summary><b>Dois clientes conseguiam reservar o mesmo horário</b></summary>
+<br>
+
+Duas requisições chegavam quase juntas e as duas viam o horário como livre. Passei a travar a linha no PostgreSQL com <code>SELECT ... FOR UPDATE</code> dentro da transação e, onde não existia linha para travar, usei <i>advisory lock</i>. O mesmo ajuste acabou com o crédito de plano sendo usado duas vezes.
+</details>
+
+<details>
+<summary><b>Pagamento confirmado pelo Asaas não chegava ao sistema</b></summary>
+<br>
+
+O webhook às vezes chegava atrasado ou falhava no meio do processamento, e a assinatura ficava sem baixa. O aviso de pagamento passou a entrar numa fila e, se der erro, é processado de novo.
+</details>
+
+<details>
+<summary><b>Uma migration travou no meio do deploy</b></summary>
+<br>
+
+Uma migration do Prisma parou no meio e bloqueou os próximos deploys. Recuperei o estado do banco e concluí a migration sem tirar o sistema do ar.
+</details>
+
+## Como o código chega ao ar
+
+Nada vai para produção sem lint, testes e build passando.
+
+```mermaid
+flowchart LR
+    PR[Pull request] --> CI[GitHub Actions<br/>lint · testes · build]
+    CI -- passou --> IMG[Imagem Docker]
+    CI -- falhou --> X[Não sobe]
+    IMG --> DO[DigitalOcean<br/>Linux · nginx]
+    DO --> S[Sentry<br/>erros em produção]
+```
+
+## Stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
+  <img alt="Em produção: Node.js, TypeScript, Express, Prisma, React, Tailwind, Python, Django, PostgreSQL. Infra: Docker, Nginx, Linux, GitHub Actions, DigitalOcean, Sentry, Git. Testes: Vitest, JUnit, Testcontainers, Playwright. Jogos: Unity, C#, Google Play. Também uso: Java, Spring Boot, Angular, MySQL, Redis, Celery, n8n. Estudando: AWS." src="assets/stack-dark.svg" width="100%">
+</picture>
+
+No dia a dia uso Cursor e Claude Code em modo agente: eu defino o escopo, divido em etapas, valido com testes e decido o que vai para produção.
+
+## Formação
+
+- Engenharia de Software · Anhanguera (conclusão prevista em dez/2027)
+- MBA em Gestão da Qualidade e Produtividade · UNIP
+- Tecnólogo em Gestão Pública · UNIP
+
+Há 8 anos também sou Guarda Civil Municipal. De lá vem o hábito de decidir sob pressão e de tratar dados sensíveis com cuidado.
+
+<sub>São Roque, SP · disponível para presencial, híbrido ou remoto</sub>

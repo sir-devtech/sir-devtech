@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Moisés Santos de Oliveira, desenvolvedor full stack. Sir Pet e SirBarber em produção, Shardspire em acesso antecipado na Google Play, SirTech Manager open source." src="assets/header-dark.svg" width="100%">
+  <img alt="Moisés Santos de Oliveira, Desenvolvedor Full Stack. Sir Pet e SirBarber em produção, Shardspire em acesso antecipado na Google Play, SirTech Manager open source." src="assets/header-dark.svg" width="100%">
 </picture>
 
 Sou desenvolvedor full stack e fundador da [Sir Tech Solutions](https://sirtechsolutions.com.br). Faço os sistemas da empresa do banco de dados ao deploy e continuo cuidando deles depois que entram no ar. Hoje são dois sistemas usados todo dia por clientes e um jogo na Google Play.

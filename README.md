@@ -15,11 +15,13 @@ Sou desenvolvedor full stack e fundador da [Sir Tech Solutions](https://sirtechs
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://sirtechsolutions.com.br/sirbarber/"><img src="assets/card-sirbarber.jpg" alt="Página de agendamento do SirBarber" width="100%"></a>
+<a href="https://loja.sirbarber.com.br"><img src="assets/card-sirbarber.jpg" alt="Página de agendamento do SirBarber" width="100%"></a>
 
 **SirBarber** · `em produção`
 
 Agendamento online e assinaturas com cobrança recorrente pelo Asaas (PIX, cartão e webhooks). Roda numa barbearia desde julho de 2026, com cerca de 220 agendamentos por mês. A versão multiempresa já tem WhatsApp Cloud API e mais de 880 testes automatizados.
+
+[Testar a demonstração →](https://loja.sirbarber.com.br)
 
 <sub>Node.js · TypeScript · Express · Prisma · PostgreSQL · React</sub>
 </td>
